@@ -2,6 +2,636 @@
   "_what": "Every public address in this repository and the Dropbox master file it comes from. Written only by the Legacy Brain publish script; never edited by hand. Plan: BRAND-ASSET-HOSTING.md (Legacy Brain branding folder).",
   "version": 1,
   "addresses": {
+    "email/icons/codebase-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/codebase-amber.png",
+      "sha256": "8ab285e146fe0eff3be467252fda2336515e732dee7a470dc6a90fcedccb55d5",
+      "size": 2149,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/codebase-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/codebase-cream.png",
+      "sha256": "88721dfb30cd28f1432c9b880cb834e2cda91c3a2d46efc9dc9ce077dcd22f5f",
+      "size": 2127,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/codebase-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/codebase-cyan.png",
+      "sha256": "cd892e1e67b2ba3184df9af8ccba715967be556471bf0f64176f3d21cd567fa6",
+      "size": 2148,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/codebase-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/codebase-ink.png",
+      "sha256": "bb1bcbedd1575f6713f21727c4b064f1bd599541784596e2878389952b74a045",
+      "size": 2141,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/codebase-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/codebase-teal-pr.png",
+      "sha256": "85f13d33563d3d9b7437f9381eb2180eb736a1168583886b065e075759d19376",
+      "size": 2135,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/competitor-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/competitor-amber.png",
+      "sha256": "ee693358531ec5a2d8ed01089ad1c2686ad7206e7b7af2929dea77bd7accef3a",
+      "size": 1574,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/competitor-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/competitor-cream.png",
+      "sha256": "26c64dd992dcf7bee6e2b6958b0b436cf6e1cbf741ebc8cffac84d2aaf0a3141",
+      "size": 1569,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/competitor-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/competitor-cyan.png",
+      "sha256": "640d418665fe54dcedc8f38795bac2e1745005b692653f35885dd366836c87e8",
+      "size": 1585,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/competitor-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/competitor-ink.png",
+      "sha256": "4f775dd627c36c70ae75f1041cae8a0bcaa3fcbaf6408ea8455277f90f104c5e",
+      "size": 1570,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/competitor-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/competitor-teal-pr.png",
+      "sha256": "4a3296df4aac27a2d8c15b10a6d48f9f5af0cb58867bfff7464172099d355ce7",
+      "size": 1557,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/concept-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/concept-amber.png",
+      "sha256": "2744b83465ddcc126935cb8c1cd8ed72468e1f4cc171074424cddccad93438c7",
+      "size": 2488,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/concept-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/concept-cream.png",
+      "sha256": "1017b7b1486e1d393a832bc87cc3e6769d709b79cfc8000fb19fe811dab22b00",
+      "size": 2468,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/concept-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/concept-cyan.png",
+      "sha256": "178e15faf9c88280be427e15a802e50b6598f36298c3c32fe0d79635370ffb88",
+      "size": 2501,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/concept-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/concept-ink.png",
+      "sha256": "6aae44641f1bf10de03eefec6d376801d5bd35554325489edb049cd01da7d273",
+      "size": 2466,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/concept-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/concept-teal-pr.png",
+      "sha256": "a9b1f929042be64406a396c04f2fadd0e8caa2f4ad6df28745762cc74f508db4",
+      "size": 2466,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contact-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contact-amber.png",
+      "sha256": "526b0a73284d40506ac60efdcc3cc81868b4dc0e23d70046ca4c8f05b5c6b9ab",
+      "size": 1764,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contact-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contact-cream.png",
+      "sha256": "1c285ad7ee26f559e08bb2af11e3249e2eee115220508b04d67c727fa7ef295e",
+      "size": 1762,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contact-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contact-cyan.png",
+      "sha256": "553922ebd00a352c9cf27a37a6c63963a9c34fcca2c38c7bbe16c35972f4d39d",
+      "size": 1766,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contact-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contact-ink.png",
+      "sha256": "290e01a502c7a1d1815b991687df97eca19be5b846f542232cb86fae396c9d57",
+      "size": 1754,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contact-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contact-teal-pr.png",
+      "sha256": "ef4ecd9a055792787ddb3238a270faacd2e92d8b0aebc3dccd4c3f2a138779de",
+      "size": 1736,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contribution-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contribution-amber.png",
+      "sha256": "2763f69e439f85ae0f679e6e8bad0fbd6f0f7763706c05474ed5496d3713e2d9",
+      "size": 2145,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contribution-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contribution-cream.png",
+      "sha256": "bd0bafecd2a701d43e98a0b87d171ab5e465ff40308945c73fc900e04d3fb636",
+      "size": 2132,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contribution-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contribution-cyan.png",
+      "sha256": "6419301b0e1507c0b85ce9d33cb6b49cd08fdc203cda3b13e4ea8da06e0a2f1d",
+      "size": 2136,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contribution-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contribution-ink.png",
+      "sha256": "7f948f4d71d3a9847e309b511123e3b09c3dbd1d2589f94f1765b5968d1d52b5",
+      "size": 2121,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/contribution-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/contribution-teal-pr.png",
+      "sha256": "049866942bfa14954b9cee77d51612e82dd1b3bba88faf563780c6ca5fb4542c",
+      "size": 2134,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/customer-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/customer-amber.png",
+      "sha256": "ddb964cde5d12c9f51cdcaed07bd9416bbc9f377c1bfc2337c9561418a6b9866",
+      "size": 1488,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/customer-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/customer-cream.png",
+      "sha256": "065c41eed71ab8c3449f8a1005c52f68ad712a46dc2401f7be865876e54e54bc",
+      "size": 1478,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/customer-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/customer-cyan.png",
+      "sha256": "8fe04adb22b8a9943103f462474f76775901537c97892ab1a373018a6c53382a",
+      "size": 1497,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/customer-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/customer-ink.png",
+      "sha256": "39fb61f61f15f20a7aaddc2f9cdc219960cc041c9f21e5c63f74f3bf407bf3e4",
+      "size": 1475,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/customer-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/customer-teal-pr.png",
+      "sha256": "f670aad3e3da641fd2e2d9c72d047f0484f20326950379442f3d1814ee9bb52e",
+      "size": 1463,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/department-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/department-amber.png",
+      "sha256": "c236f4b10b5a2a9234d2737baf27045e3a8984e2e03d6512d3440ef8840ca931",
+      "size": 1654,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/department-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/department-cream.png",
+      "sha256": "148557b7140072f035ae7b33ab52f60edfed875ad414d73d25dc35cda0559bfd",
+      "size": 1647,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/department-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/department-cyan.png",
+      "sha256": "8925509e6138c48f421b8a6930843fe0dea964c56c2af5f8ac08ab0b5a12da32",
+      "size": 1655,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/department-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/department-ink.png",
+      "sha256": "a4a33a43b8fdab2844f53f95ee93e0d741e01680b5bc87db62988ec7e8c414fc",
+      "size": 1642,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/department-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/department-teal-pr.png",
+      "sha256": "4771f618a64f663eaa71171e3b457d86b2e9dd3759124aa2bf3f858fc29e1e5f",
+      "size": 1648,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/document-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/document-amber.png",
+      "sha256": "ad2b047d1a1aafea8e065bba5c505f615180eb0bafcab664d73545b55a9baa89",
+      "size": 2319,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/document-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/document-cream.png",
+      "sha256": "63b97dcc8052d37c0b22fc0fd03994b1afd78ea00f72af32fe20bcfbacad09b5",
+      "size": 2286,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/document-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/document-cyan.png",
+      "sha256": "f1fbe4803dc1fcd54fa4ea1439f81675568f6a9d1a5a172bc3859307812762b1",
+      "size": 2309,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/document-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/document-ink.png",
+      "sha256": "b68d09f12fa2218192c9380971a6bde19201675a5d4da675e5a5b54098ed6034",
+      "size": 2293,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/document-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/document-teal-pr.png",
+      "sha256": "19c07cf1a3f6a59c5db91eefd8805fe013c50a299c49de7f99ee99645e7d8345",
+      "size": 2286,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/equipment-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/equipment-amber.png",
+      "sha256": "e65d1128ce8119d7ce48896c95554f0612a36827c111bf88ff4f42da0ea983cc",
+      "size": 3312,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/equipment-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/equipment-cream.png",
+      "sha256": "b59940269f89dc1838b472778e09d8d2a263aeca61668bcc2bb9a32a2e099e1b",
+      "size": 3308,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/equipment-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/equipment-cyan.png",
+      "sha256": "c86a54c5be61fbe7831ebae045c00cd32c08fa59f6907060d6169b683ad2c8a2",
+      "size": 3338,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/equipment-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/equipment-ink.png",
+      "sha256": "c24e82092fb2fd49f955d254e55ef62eddd39fa79adc8bc9ed648a3b944ddc57",
+      "size": 3293,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/equipment-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/equipment-teal-pr.png",
+      "sha256": "030d9cb2d92110646bfd3c1cc3bcf34b100d91bcb0f38b89f4b0b60fba53e29d",
+      "size": 3291,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/finding-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/finding-amber.png",
+      "sha256": "68c79603b1a19d5afbbd3ddd7d0d688528886c4ff6c04aa9d9488ad4e7f614ba",
+      "size": 2071,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/finding-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/finding-cream.png",
+      "sha256": "b6023378534d5bae435255280d4d30149f483a1d9574e21b61a14a103497787d",
+      "size": 2049,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/finding-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/finding-cyan.png",
+      "sha256": "08f4aff74dfa1483b0e2a0e634b2171f76fd521d90853b750e4c55ba428b06b6",
+      "size": 2067,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/finding-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/finding-ink.png",
+      "sha256": "2a3abaec47a867e4b4598eb47cb7741e04a9e7230a97db25cb7f8552b897acb6",
+      "size": 2036,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/finding-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/finding-teal-pr.png",
+      "sha256": "00144b011d0c54d8960e671196da7796cface567e6415796645d710511926b85",
+      "size": 2054,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/grounding-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/grounding-amber.png",
+      "sha256": "2d1071bb1bbcd309388581b352cf960f93113606b35bcd60ab083be090094367",
+      "size": 2355,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/grounding-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/grounding-cream.png",
+      "sha256": "019541dde83b2a1c4146533d93cd049c39ac6b102571ca1675ae999a5653c876",
+      "size": 2340,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/grounding-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/grounding-cyan.png",
+      "sha256": "57be6d1b1bd250f634cd68db14ed6ca73898c5096e2c21caa32ed95b15f5250a",
+      "size": 2374,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/grounding-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/grounding-ink.png",
+      "sha256": "a2d67c7ac689eb737df7f8abbaad2bcfe2c112c3fc63df4aaa7bb7cf8174d976",
+      "size": 2337,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/grounding-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/grounding-teal-pr.png",
+      "sha256": "57a1fdd993649f274a43da92c522e4e7074f761b3ea52aba988022bac7e3d063",
+      "size": 2338,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-a-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-a-amber.png",
+      "sha256": "06bcdea60bbfdc03a35da7130e4cf3e31738fa0f992152caefa0f432b87c613e",
+      "size": 1659,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-a-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-a-cream.png",
+      "sha256": "58d3560032a59878804136e21a5274406ba59b27352523d68f073761e779bd27",
+      "size": 1661,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-a-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-a-cyan.png",
+      "sha256": "50b97e05bff693cc0df97839c4f31cceff607df583b882fe7fb6b38abcc589e5",
+      "size": 1664,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-a-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-a-ink.png",
+      "sha256": "dd15ce4610f5dae2b81dcf94242275d836e56c412fbafac8f98a43e202ee6b90",
+      "size": 1644,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-a-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-a-teal-pr.png",
+      "sha256": "0bb8055dfad5dd53863ab2a5a7b23d0157e59428c7f3f8a76e4dfa64ec36169d",
+      "size": 1657,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-b-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-b-amber.png",
+      "sha256": "c5a42594f352008f1acf36ecb305edc89eb98135aa1957cf3e2d167ae612afb9",
+      "size": 2938,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-b-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-b-cream.png",
+      "sha256": "3b4459314a72f17fa11da0306dfc2fe95455d0a8c88c23de69b7fa63ba325284",
+      "size": 2900,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-b-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-b-cyan.png",
+      "sha256": "b621a903c45f665077b71113d32b465869b82db0f13b0db2e1295fe9d516a490",
+      "size": 2937,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-b-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-b-ink.png",
+      "sha256": "561f6b6dc370cc5694b2c998a21454491552e9d909315a1a7c5a24818b699824",
+      "size": 2916,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-b-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-b-teal-pr.png",
+      "sha256": "3d294b9bc991aa493fbbfb792601d38c9be911e7df3783ac6243a5c3c7ebc474",
+      "size": 2903,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-c-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-c-amber.png",
+      "sha256": "f126dac27acf36433a1ef12aaa5672f8f13e8f2831d8e0194d12dcece654ad30",
+      "size": 2550,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-c-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-c-cream.png",
+      "sha256": "afb8207d4bed6952351d1a33ffef2c161f35440abf02f62b3d5d822e39d0b656",
+      "size": 2537,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-c-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-c-cyan.png",
+      "sha256": "90d7389032a3ed4ee064f3649201f454742175767d314a2a1cbad5038e767957",
+      "size": 2557,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-c-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-c-ink.png",
+      "sha256": "ac78fdbfe1fcf2bce62f98e96e6cf0fee29f9931c75e103e4d03ad18ef92216f",
+      "size": 2522,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/neutral-c-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/neutral-c-teal-pr.png",
+      "sha256": "484acd717a3a8fddd2c4d35f7333243f494f578e5e1162104387accf2097f69f",
+      "size": 2526,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/nugget-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/nugget-amber.png",
+      "sha256": "84d3eac34f3d225b739e6b695ee549b8daa87db300210e31d8fc482d24d75615",
+      "size": 1633,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/nugget-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/nugget-cream.png",
+      "sha256": "0b40667186921017232655afeacbe0ea84ae77fdeb40eac75ad82513dc374554",
+      "size": 1621,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/nugget-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/nugget-cyan.png",
+      "sha256": "28e7d37a66b0a06527e97bb1fc3a454c146657d2cf31961fa845e37f9a57361f",
+      "size": 1625,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/nugget-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/nugget-ink.png",
+      "sha256": "3cb2c7cd71c533a970742c8ad94384845f9021df2978b05afc3b480c9d279a7b",
+      "size": 1622,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/nugget-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/nugget-teal-pr.png",
+      "sha256": "396fdda94e58bfdcf938cffdf50b06c826aad07da87b2340f46a3b3cb8d1bc54",
+      "size": 1614,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/person-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/person-amber.png",
+      "sha256": "642cfc75fb7420a1f3c64b547f95ef85584f45cf7b42f477ca22357b36e02fc5",
+      "size": 1546,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/person-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/person-cream.png",
+      "sha256": "abe53121122b64ff9e29062a104483b56022f9dff38011531108b5d3a4583773",
+      "size": 1536,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/person-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/person-cyan.png",
+      "sha256": "ccb2520cf6e6f7ec5e50903f31425925f2242160fd7e909e420ad292311ab35b",
+      "size": 1552,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/person-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/person-ink.png",
+      "sha256": "9ab207e9da6401942f3ce0d9c08061a997a2402f9e68fac2444983868ef7159d",
+      "size": 1538,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/person-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/person-teal-pr.png",
+      "sha256": "893c91e936de2cf75a5372027bb37a51e2cad8c38ad6f85ed29d33180d344bbe",
+      "size": 1545,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/product-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/product-amber.png",
+      "sha256": "f82a79c737ff59ad8a13cfbc966b902b76e97510abd6b1ab16d4c0f8a6a4943d",
+      "size": 2504,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/product-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/product-cream.png",
+      "sha256": "506ab463b132e60b64392ec2ea09f072580280b02647142bf8d5631b1d9717a3",
+      "size": 2482,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/product-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/product-cyan.png",
+      "sha256": "309aa9d01b3dd595da5dcf02c0ca79949ab44c4af592d7fd5255e73f96f62dd0",
+      "size": 2495,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/product-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/product-ink.png",
+      "sha256": "97a2c00e349a8e3ab7ac82439a54422a124e97faebac9242066b74f11e3c57c6",
+      "size": 2477,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/product-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/product-teal-pr.png",
+      "sha256": "957cc49fa94cd7cf289093ca376a583aaedd8aee531e9f2f8d901c2ef39c9d6b",
+      "size": 2473,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/project-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/project-amber.png",
+      "sha256": "af5be7f16850202834d083db5d4d0e6efe3ef251d4174bf4ea59e618bfc7a9f1",
+      "size": 2875,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/project-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/project-cream.png",
+      "sha256": "866ede9fbea67a4f2e8fee26110ef389088a7b74134f915d3909fd267eb7ac29",
+      "size": 2899,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/project-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/project-cyan.png",
+      "sha256": "b02b282406890cc65124bd05eb14063faf26a7b3911fc2edf313a15ddd700933",
+      "size": 2902,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/project-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/project-ink.png",
+      "sha256": "3d37f7e138c46b00d6c315aa85281a1f42f654fc077074a14cf290e5a6e7bff8",
+      "size": 2838,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/project-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/project-teal-pr.png",
+      "sha256": "45775a5a396cadf2d95715adfd32a423fb40f88e695d1877a53558b3a51ba19f",
+      "size": 2846,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/supplier-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/supplier-amber.png",
+      "sha256": "c0b8812721a8fc7824ed70f0016b0665c2b0e0f5d4cd384c174408997b3045fe",
+      "size": 1562,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/supplier-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/supplier-cream.png",
+      "sha256": "5c8342dc1d4ca48f1587c08f50256e3b53a598b0c9a3fcfa80e242071fd8a2c4",
+      "size": 1558,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/supplier-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/supplier-cyan.png",
+      "sha256": "a4d51177499e67cb2bce23ef49106a517a49e7a09940ac11a6f7ba437bdaca80",
+      "size": 1561,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/supplier-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/supplier-ink.png",
+      "sha256": "292a9465b5283361bc5889d97d817fd4677e037134e58dca163bb5e4f9951b0d",
+      "size": 1548,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/supplier-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/supplier-teal-pr.png",
+      "sha256": "e0eb3a44c07ac79bcd76db07f0e1d3fa56fd9d7fc4ca552f1bd7a31a45d10346",
+      "size": 1544,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/system-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/system-amber.png",
+      "sha256": "7705c3b63393340635d7311efd77fdb969229b3c65180f5f0cfd417117b15c91",
+      "size": 1958,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/system-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/system-cream.png",
+      "sha256": "f419a18a2bbb17e3fdc619a353eec21f237208b1142ebbac7cd7e84a5575f454",
+      "size": 1961,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/system-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/system-cyan.png",
+      "sha256": "a2d20a5db29ea963202bdb64e039fd1abb745d217e6ecacb207e90da8e0d2dee",
+      "size": 1965,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/system-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/system-ink.png",
+      "sha256": "93f51452c444736556658977b93f2ade2ab74d439e961d90cb481db3ec9cf686",
+      "size": 1951,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/system-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/system-teal-pr.png",
+      "sha256": "a60ff39c573e9efbfa50badba1e4e56d46f3d7424b9e6517092d1684e1cadaae",
+      "size": 1950,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/transcript-amber.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/transcript-amber.png",
+      "sha256": "2996aa541dbe5cb3944b384476088a77cb4f5327ad597930a7008b953f358c96",
+      "size": 2043,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/transcript-cream.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/transcript-cream.png",
+      "sha256": "7b64133a457a5a56661d5df50c570eff9fd3c127be34d8377b23aa5d5541036e",
+      "size": 2046,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/transcript-cyan.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/transcript-cyan.png",
+      "sha256": "740f043193522889c4f951fdb6397b940f3b3be9ec54b43e9ead0efd68c389cb",
+      "size": 2051,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/transcript-ink.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/transcript-ink.png",
+      "sha256": "66e7c069613a3195b10d99a0e3c492d8b288d458a7e84156e5322aacd2b97e65",
+      "size": 2031,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
+    "email/icons/transcript-teal-pr.png": {
+      "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/transcript-teal-pr.png",
+      "sha256": "e6e9aba07cf85d650e261ed9f37f73f6863872a24efbdce07ecacb473a277537",
+      "size": 2040,
+      "published": "2026-10-16T12:39:39+00:00"
+    },
     "logo/ai-dark.png": {
       "source": "Branding/Legacy Brain Website/Logo/AI-Dark.png",
       "sha256": "daa00734c294ea77dc59c7354b31401875d1c701a945862695298f2d0b20bebe",
