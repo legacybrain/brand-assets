@@ -1,5 +1,246 @@
 {
   "_what": "Every public address in this repository and the Dropbox master file it comes from. Written only by the Legacy Brain publish script; never edited by hand. Plan: BRAND-ASSET-HOSTING.md (Legacy Brain branding folder).",
   "version": 1,
-  "addresses": {}
+  "addresses": {
+    "logo/ai-dark.png": {
+      "source": "Branding/Legacy Brain Website/Logo/AI-Dark.png",
+      "sha256": "daa00734c294ea77dc59c7354b31401875d1c701a945862695298f2d0b20bebe",
+      "size": 10342,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/ai-dark.svg": {
+      "source": "Branding/Legacy Brain Website/Logo/AI-Dark.svg",
+      "sha256": "f572853796489c5ca540066f4f6b168b467c671795690ee3a5b1ebad418b40d1",
+      "size": 4026,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/ai-light.png": {
+      "source": "Branding/Legacy Brain Website/Logo/AI-Light.png",
+      "sha256": "68f1e791283f88aed8871677fb3d1a678f8aec1929956fbbf6950196ec4281db",
+      "size": 9178,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/ai-light.svg": {
+      "source": "Branding/Legacy Brain Website/Logo/AI-Light.svg",
+      "sha256": "c6eb720c593dda50946cc8e3a443ca4f9c132448e97a719b0bbfca334992f389",
+      "size": 4041,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-animated-darkbackground.gif": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Animated-DarkBackground.gif",
+      "sha256": "17ea0cfb65bc80f3796df01e0558ee0517f1dc4d1e12c6efb8bc552ea81cde0b",
+      "size": 714841,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-animated-darkbackground.mp4": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Animated-DarkBackground.mp4",
+      "sha256": "1316eb4a4c40734f8116e83294d1a369ea37890204066691d15dcbfc7819ce37",
+      "size": 3521348,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-animated-lightbackground.gif": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Animated-LightBackground.gif",
+      "sha256": "f17764ac9326b6354a9e7e21628417b4e8677ec42907ab066016e484d978736b",
+      "size": 616957,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-darkbackground.png": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-DarkBackground.png",
+      "sha256": "dba5ae1a3931f4f6f1d027ba4ddfb94fc6f45c1ff2d2fcb5625fd62d85bd4e8b",
+      "size": 80898,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-darkbackground.svg": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-DarkBackground.svg",
+      "sha256": "ca152a2968589815204977b00582028cdc8a27a4134dbb05972e1645e5c7bd9c",
+      "size": 58783,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-darkmode.png": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Darkmode.png",
+      "sha256": "1bcc1b1c739f1f859474e80ef39d58dd1d7bee203ecb0b491be2e468d435e8b1",
+      "size": 54632,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-darkmode.svg": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Darkmode.svg",
+      "sha256": "346999edeaddea0f3eaf1b2df33b35a570d8acbf82d1c999a7ade84b368b1fd2",
+      "size": 58166,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-lightbackground.png": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-LightBackground.png",
+      "sha256": "9bf076727c6d4ca28e465a367686c4eb29bcc6784e88d3bb7c8a1ef0736517af",
+      "size": 51683,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-lightbackground.svg": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-LightBackground.svg",
+      "sha256": "12cba322d51e899c6cf8ca7a8378746cfdf67ba9c13b2bed50642ba7ed13f993",
+      "size": 57094,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-lightmode.png": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Lightmode.png",
+      "sha256": "867644d4dbf96f92a98cf643175e9ccc372389e0abb525e26e6dff3a7fdf3b4d",
+      "size": 47606,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/legacybrain-logo-lightmode.svg": {
+      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Lightmode.svg",
+      "sha256": "9029bcada94e53dbc3f6f870887b5273bbafe2de29224247db102fe98379721a",
+      "size": 56775,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/squiggle-dark.png": {
+      "source": "Branding/Legacy Brain Website/Logo/Squiggle-Dark.png",
+      "sha256": "c6349f99e4f6550b4774009b1f0ac437448bd6bfb9dbb5e64d6b6ed43c65bb47",
+      "size": 32322,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/squiggle-dark.svg": {
+      "source": "Branding/Legacy Brain Website/Logo/Squiggle-Dark.svg",
+      "sha256": "81d03f0ad65106de8bec14886e27aeb60714b433495ae5567cb20876f4c71985",
+      "size": 38957,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/squiggle-light.png": {
+      "source": "Branding/Legacy Brain Website/Logo/Squiggle-Light.png",
+      "sha256": "6567a28882d1b7d4ab623560bf0caac07f16d58afaf6e19a0774c782fa3eac5a",
+      "size": 25628,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "logo/squiggle-light.svg": {
+      "source": "Branding/Legacy Brain Website/Logo/Squiggle-Light.svg",
+      "sha256": "c382f9f016e61c5b6b4602419651a9010ded9dc9b70ed55ba02528ad5ae34813",
+      "size": 37231,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/codebase.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Codebase.svg",
+      "sha256": "aa464d2034ed03c320047234fbc666875fba8fe7538b3396bb652f66888fbb5a",
+      "size": 2467,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/competitor.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Competitor.svg",
+      "sha256": "fcac353108f8b791c6f595ed72a77a3005dd1e0ca31a5b2f592aa2bf6f88eb08",
+      "size": 1477,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/concept.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Concept.svg",
+      "sha256": "f9e94efdcec0310fdaf5242d69b023b1b87ff30e2fdfef0b9482381cc13a3339",
+      "size": 2859,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/contact.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Contact.svg",
+      "sha256": "af74145b717cfe73cf6cc5e94a3bcdec076b3330a1224bee89410587bdd4e581",
+      "size": 1860,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/contribution.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Contribution.svg",
+      "sha256": "3b95ab86c65c4282dd1d76b7814f9d6ca5c30a71ed5fa33a214b5414a72e425d",
+      "size": 2087,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/customer.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Customer.svg",
+      "sha256": "589ff82245c8a197bca4645cc83a351c92e69ddde2a8130b96abbca40a438987",
+      "size": 1776,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/department.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Department.svg",
+      "sha256": "55348579f74e95f5c03b0afbac08878055977db45b8361f410938e500bc93483",
+      "size": 1522,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/document.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Document.svg",
+      "sha256": "25cc3ad10146b678dba59d84d45d71fd24f40adb003d623bd21daddfbb2c5f82",
+      "size": 2562,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/equipment.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Equipment.svg",
+      "sha256": "9104dbf8d9f680ceeaa712e1577b16527b280d781edafc81ce0cb80c259aa495",
+      "size": 4694,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/finding.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Finding.svg",
+      "sha256": "4f5650cad7974de8190b84c6d6b1ab1364ff30439032d75eb274074859113f3a",
+      "size": 2000,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/grounding.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Grounding.svg",
+      "sha256": "a61ede30ddd075fa8d091f64083eba34f1c4a058cf3202f570f9325fd7790268",
+      "size": 3207,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/neutrals/neutral-a.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Neutrals/Neutral_A.svg",
+      "sha256": "87ef7f4c0204bdb2455f0d4f84b70deff61cb8752ac006c1e0c6c6d8e06b76a1",
+      "size": 1618,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/neutrals/neutral-b.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Neutrals/Neutral_B.svg",
+      "sha256": "cb76277f98a2f189a4cd49a89733ad5b8c2967cebe7ccbdae38f4af5d98829b2",
+      "size": 3560,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/neutrals/neutral-c.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Neutrals/Neutral_C.svg",
+      "sha256": "dbe91124b5667c36c9efa6f4c15aac927ed3959271d108d2ce51e4529deefa66",
+      "size": 2876,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/nugget.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Nugget.svg",
+      "sha256": "189c52bbdf3fe4fe7fb7806abc5e1facd9a53327daac1f0b77ebaad832c1375a",
+      "size": 1402,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/person.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Person.svg",
+      "sha256": "9fa52b09aa2e95befa7597e53c9cf9f3164f684ce71c54aeb342906c993b212f",
+      "size": 1753,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/product.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Product.svg",
+      "sha256": "477aa3ebe6b20b9b8da94e89d931b067711ba424f40ff693085131c83ad80464",
+      "size": 2641,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/project.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Project.svg",
+      "sha256": "e998ba8a377337b7e5eb7ef3ad2693f24de465639273464ac21b969c9355bf99",
+      "size": 4283,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/supplier.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Supplier.svg",
+      "sha256": "6915b2042da23a908aca5f31bc4352ccbb97c77e472354135675ceee8902aec7",
+      "size": 1474,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/system.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/System.svg",
+      "sha256": "5be64a3f594a0078b8008e494720eda2da7b24118720bd2bb54fed85db76bcc5",
+      "size": 2251,
+      "published": "2026-10-16T12:31:54+00:00"
+    },
+    "product/icons/transcript.svg": {
+      "source": "Products/Legacy Brain/Graphical Projects/Knowledge Portal/PUBLISHED/Transcript.svg",
+      "sha256": "98af6d47bb7629d50a6a07a33b5eee9bd39dffafa83228640cd74c1193374630",
+      "size": 2416,
+      "published": "2026-10-16T12:31:54+00:00"
+    }
+  }
 }
