@@ -3,7 +3,7 @@
   "version": 1,
   "addresses": {
     "animation/process-loop-animated.svg": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/animation/process-loop-animated.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/animation/process-loop-animated.svg",
       "sha256": "a0339c7f32dacc5d4c0ecaafa16b8beaf65734847d8ea2907a85b9a7b6a5c734",
       "size": 173300,
       "published": "2026-11-12T14:31:56+00:00"
@@ -639,121 +639,121 @@
       "published": "2026-10-16T12:39:39+00:00"
     },
     "logo/ai-dark.png": {
-      "source": "Branding/Legacy Brain Website/Logo/AI-Dark.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/AI-Dark.png",
       "sha256": "daa00734c294ea77dc59c7354b31401875d1c701a945862695298f2d0b20bebe",
       "size": 10342,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/ai-dark.svg": {
-      "source": "Branding/Legacy Brain Website/Logo/AI-Dark.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/AI-Dark.svg",
       "sha256": "f572853796489c5ca540066f4f6b168b467c671795690ee3a5b1ebad418b40d1",
       "size": 4026,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/ai-light.png": {
-      "source": "Branding/Legacy Brain Website/Logo/AI-Light.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/AI-Light.png",
       "sha256": "68f1e791283f88aed8871677fb3d1a678f8aec1929956fbbf6950196ec4281db",
       "size": 9178,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/ai-light.svg": {
-      "source": "Branding/Legacy Brain Website/Logo/AI-Light.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/AI-Light.svg",
       "sha256": "c6eb720c593dda50946cc8e3a443ca4f9c132448e97a719b0bbfca334992f389",
       "size": 4041,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-3d-darkbackground.mp4": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-3D-DarkBackground.mp4",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-3D-DarkBackground.mp4",
       "sha256": "289d7330fad879ae0b3c318a9498b8af49bd88f5211edbecc3ddc1df672a5082",
       "size": 2690395,
       "published": "2026-11-12T12:27:38+00:00"
     },
     "logo/legacybrain-logo-animated-darkbackground.gif": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Animated-DarkBackground.gif",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-Animated-DarkBackground.gif",
       "sha256": "17ea0cfb65bc80f3796df01e0558ee0517f1dc4d1e12c6efb8bc552ea81cde0b",
       "size": 714841,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-animated-darkbackground.mp4": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Animated-DarkBackground.mp4",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-Animated-DarkBackground.mp4",
       "sha256": "1316eb4a4c40734f8116e83294d1a369ea37890204066691d15dcbfc7819ce37",
       "size": 3521348,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-animated-lightbackground.gif": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Animated-LightBackground.gif",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-Animated-LightBackground.gif",
       "sha256": "f17764ac9326b6354a9e7e21628417b4e8677ec42907ab066016e484d978736b",
       "size": 616957,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-darkbackground.png": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-DarkBackground.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-DarkBackground.png",
       "sha256": "dba5ae1a3931f4f6f1d027ba4ddfb94fc6f45c1ff2d2fcb5625fd62d85bd4e8b",
       "size": 80898,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-darkbackground.svg": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-DarkBackground.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-DarkBackground.svg",
       "sha256": "ca152a2968589815204977b00582028cdc8a27a4134dbb05972e1645e5c7bd9c",
       "size": 58783,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-darkmode.png": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Darkmode.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-Darkmode.png",
       "sha256": "1bcc1b1c739f1f859474e80ef39d58dd1d7bee203ecb0b491be2e468d435e8b1",
       "size": 54632,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-darkmode.svg": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Darkmode.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-Darkmode.svg",
       "sha256": "346999edeaddea0f3eaf1b2df33b35a570d8acbf82d1c999a7ade84b368b1fd2",
       "size": 58166,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-lightbackground.png": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-LightBackground.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-LightBackground.png",
       "sha256": "9bf076727c6d4ca28e465a367686c4eb29bcc6784e88d3bb7c8a1ef0736517af",
       "size": 51683,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-lightbackground.svg": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-LightBackground.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-LightBackground.svg",
       "sha256": "12cba322d51e899c6cf8ca7a8378746cfdf67ba9c13b2bed50642ba7ed13f993",
       "size": 57094,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-lightmode.png": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Lightmode.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-Lightmode.png",
       "sha256": "867644d4dbf96f92a98cf643175e9ccc372389e0abb525e26e6dff3a7fdf3b4d",
       "size": 47606,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/legacybrain-logo-lightmode.svg": {
-      "source": "Branding/Legacy Brain Website/Logo/LegacyBrain-Logo-Lightmode.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/LegacyBrain-Logo-Lightmode.svg",
       "sha256": "9029bcada94e53dbc3f6f870887b5273bbafe2de29224247db102fe98379721a",
       "size": 56775,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/squiggle-dark.png": {
-      "source": "Branding/Legacy Brain Website/Logo/Squiggle-Dark.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/Squiggle-Dark.png",
       "sha256": "c6349f99e4f6550b4774009b1f0ac437448bd6bfb9dbb5e64d6b6ed43c65bb47",
       "size": 32322,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/squiggle-dark.svg": {
-      "source": "Branding/Legacy Brain Website/Logo/Squiggle-Dark.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/Squiggle-Dark.svg",
       "sha256": "81d03f0ad65106de8bec14886e27aeb60714b433495ae5567cb20876f4c71985",
       "size": 38957,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/squiggle-light.png": {
-      "source": "Branding/Legacy Brain Website/Logo/Squiggle-Light.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/Squiggle-Light.png",
       "sha256": "6567a28882d1b7d4ab623560bf0caac07f16d58afaf6e19a0774c782fa3eac5a",
       "size": 25628,
       "published": "2026-10-16T12:31:54+00:00"
     },
     "logo/squiggle-light.svg": {
-      "source": "Branding/Legacy Brain Website/Logo/Squiggle-Light.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/Logo/Squiggle-Light.svg",
       "sha256": "c382f9f016e61c5b6b4602419651a9010ded9dc9b70ed55ba02528ad5ae34813",
       "size": 37231,
       "published": "2026-10-16T12:31:54+00:00"
@@ -885,109 +885,109 @@
       "published": "2026-10-16T12:31:54+00:00"
     },
     "site/icons/ai-assistant.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/ai-assistant.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/icons/ai-assistant.png",
       "sha256": "fd9ae3a1f7da707db98c9929783023aafd6a9161427a38137d440ee418d8a3a6",
       "size": 3910,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/icons/apple-touch-icon.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/apple-touch-icon.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/icons/apple-touch-icon.png",
       "sha256": "dd835f0f68cd0ffbc4104c224ac70766dbc1da1accc73773691c3fb7a7a9165c",
       "size": 14284,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/icons/bluespeechbub.svg": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/bluespeechbub.svg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/icons/bluespeechbub.svg",
       "sha256": "4d15a3df7383658a2f17718ba0ea1aa6bc966c5d5a68dede5775b3487f347238",
       "size": 17472,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/icons/documents.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/documents.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/icons/documents.png",
       "sha256": "21280da808f40272fe1c373998c05a431cb6b95654d819e27bc0253d9385694b",
       "size": 6499,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/icons/favicon.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/favicon.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/icons/favicon.png",
       "sha256": "e8b7faedadaa7b55b5079af9a52229b3cc736cee69aec7a827bfd8a47bed38d7",
       "size": 14632,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/icons/search.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/search.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/icons/search.png",
       "sha256": "a1419740d200a95f8a1ad018a8a30c8b964e6a747eb4982c72385673375d73cc",
       "size": 6007,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/icons/security.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/security.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/icons/security.png",
       "sha256": "c145478d68ce4f94c63936ec4d6ac8a154859682c603f14ffbdb8adffaf8f0ff",
       "size": 4236,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/icons/verify.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/verify.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/icons/verify.png",
       "sha256": "105df6da157ad49c96449d5014ada8db29bc18e991ab0a9f409bf23161e79fe7",
       "size": 4055,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/brain-pattern.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/brain-pattern.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/brain-pattern.png",
       "sha256": "efd684e8a49c36daf609a3cd272bc1b3a9950d7c97c5f103577349f28e5c3c43",
       "size": 240312,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/daisy-green.jpg": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/daisy-green.jpg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/daisy-green.jpg",
       "sha256": "635fecfbf5107fce0f4f39470a6d8e3defb94ad9c848c01601851206ade203ea",
       "size": 69789,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/expert-walking-out-the-door.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/expert-walking-out-the-door.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/expert-walking-out-the-door.png",
       "sha256": "4e2f2455b60fd6938381e7285d9b88f57255861c38319add18e1ec5978b2cfe8",
       "size": 841020,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/gareth-green.jpg": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/gareth-green.jpg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/gareth-green.jpg",
       "sha256": "0363c64f682956bf5d435f365d8dab2d14933213575dfe2827669faf6494c215",
       "size": 68011,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/grounding-domain.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/grounding-domain.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/grounding-domain.png",
       "sha256": "c957907079b1aa667394e030e49e0c36df16e1c4d6a626e9d9815d808b07e8b9",
       "size": 135918,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/home-page-hero-image.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/home-page-hero-image.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/home-page-hero-image.png",
       "sha256": "f8a2fecb8ba8d1531ca68a8a65782ddcc99547b858ea60f87cbc4985c588a266",
       "size": 2278552,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/process-loop.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/process-loop.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/process-loop.png",
       "sha256": "95d7f8985160363942f595515251eee3d855c06ee83c3cfa5c9b8a4d8f831dd4",
       "size": 95033,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/record.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/record.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/record.png",
       "sha256": "8aad829c4037c0f53d66d5436a76d0a3a363e4d3d751b7d164f7f45204313952",
       "size": 18911582,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/rosie-green.jpg": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/rosie-green.jpg",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/rosie-green.jpg",
       "sha256": "9e74af8d54426fdbd9561ebce7a5bff5aa387ae4fae9999f881c74cd6db76f65",
       "size": 53170,
       "published": "2026-11-12T14:31:56+00:00"
     },
     "site/images/security-and-privacy.png": {
-      "source": "Branding/Legacy Brain Website/PUBLISHED/images/security-and-privacy.png",
+      "source": "Products/Legacy Brain/Graphical Projects/Website/PUBLISHED/images/security-and-privacy.png",
       "sha256": "1f00873d1c69ff6b2260aa3eb40265e85ca7655e161373ac2e27f1e4e7c063ca",
       "size": 214055,
       "published": "2026-11-12T14:31:56+00:00"
