@@ -2,6 +2,12 @@
   "_what": "Every public address in this repository and the Dropbox master file it comes from. Written only by the Legacy Brain publish script; never edited by hand. Plan: BRAND-ASSET-HOSTING.md (Legacy Brain branding folder).",
   "version": 1,
   "addresses": {
+    "animation/process-loop-animated.svg": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/animation/process-loop-animated.svg",
+      "sha256": "a0339c7f32dacc5d4c0ecaafa16b8beaf65734847d8ea2907a85b9a7b6a5c734",
+      "size": 173300,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
     "email/icons/codebase-amber.png": {
       "source": "Products/Legacy Brain/Codebase/brand-assets/generated/email/icons/codebase-amber.png",
       "sha256": "8ab285e146fe0eff3be467252fda2336515e732dee7a470dc6a90fcedccb55d5",
@@ -877,6 +883,114 @@
       "sha256": "98af6d47bb7629d50a6a07a33b5eee9bd39dffafa83228640cd74c1193374630",
       "size": 2416,
       "published": "2026-10-16T12:31:54+00:00"
+    },
+    "site/icons/ai-assistant.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/ai-assistant.png",
+      "sha256": "fd9ae3a1f7da707db98c9929783023aafd6a9161427a38137d440ee418d8a3a6",
+      "size": 3910,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/icons/apple-touch-icon.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/apple-touch-icon.png",
+      "sha256": "dd835f0f68cd0ffbc4104c224ac70766dbc1da1accc73773691c3fb7a7a9165c",
+      "size": 14284,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/icons/bluespeechbub.svg": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/bluespeechbub.svg",
+      "sha256": "4d15a3df7383658a2f17718ba0ea1aa6bc966c5d5a68dede5775b3487f347238",
+      "size": 17472,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/icons/documents.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/documents.png",
+      "sha256": "21280da808f40272fe1c373998c05a431cb6b95654d819e27bc0253d9385694b",
+      "size": 6499,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/icons/favicon.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/favicon.png",
+      "sha256": "e8b7faedadaa7b55b5079af9a52229b3cc736cee69aec7a827bfd8a47bed38d7",
+      "size": 14632,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/icons/search.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/search.png",
+      "sha256": "a1419740d200a95f8a1ad018a8a30c8b964e6a747eb4982c72385673375d73cc",
+      "size": 6007,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/icons/security.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/security.png",
+      "sha256": "c145478d68ce4f94c63936ec4d6ac8a154859682c603f14ffbdb8adffaf8f0ff",
+      "size": 4236,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/icons/verify.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/icons/verify.png",
+      "sha256": "105df6da157ad49c96449d5014ada8db29bc18e991ab0a9f409bf23161e79fe7",
+      "size": 4055,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/brain-pattern.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/brain-pattern.png",
+      "sha256": "efd684e8a49c36daf609a3cd272bc1b3a9950d7c97c5f103577349f28e5c3c43",
+      "size": 240312,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/daisy-green.jpg": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/daisy-green.jpg",
+      "sha256": "635fecfbf5107fce0f4f39470a6d8e3defb94ad9c848c01601851206ade203ea",
+      "size": 69789,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/expert-walking-out-the-door.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/expert-walking-out-the-door.png",
+      "sha256": "4e2f2455b60fd6938381e7285d9b88f57255861c38319add18e1ec5978b2cfe8",
+      "size": 841020,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/gareth-green.jpg": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/gareth-green.jpg",
+      "sha256": "0363c64f682956bf5d435f365d8dab2d14933213575dfe2827669faf6494c215",
+      "size": 68011,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/grounding-domain.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/grounding-domain.png",
+      "sha256": "c957907079b1aa667394e030e49e0c36df16e1c4d6a626e9d9815d808b07e8b9",
+      "size": 135918,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/home-page-hero-image.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/home-page-hero-image.png",
+      "sha256": "f8a2fecb8ba8d1531ca68a8a65782ddcc99547b858ea60f87cbc4985c588a266",
+      "size": 2278552,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/process-loop.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/process-loop.png",
+      "sha256": "95d7f8985160363942f595515251eee3d855c06ee83c3cfa5c9b8a4d8f831dd4",
+      "size": 95033,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/record.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/record.png",
+      "sha256": "8aad829c4037c0f53d66d5436a76d0a3a363e4d3d751b7d164f7f45204313952",
+      "size": 18911582,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/rosie-green.jpg": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/rosie-green.jpg",
+      "sha256": "9e74af8d54426fdbd9561ebce7a5bff5aa387ae4fae9999f881c74cd6db76f65",
+      "size": 53170,
+      "published": "2026-11-12T14:31:56+00:00"
+    },
+    "site/images/security-and-privacy.png": {
+      "source": "Branding/Legacy Brain Website/PUBLISHED/images/security-and-privacy.png",
+      "sha256": "1f00873d1c69ff6b2260aa3eb40265e85ca7655e161373ac2e27f1e4e7c063ca",
+      "size": 214055,
+      "published": "2026-11-12T14:31:56+00:00"
     }
   }
 }
